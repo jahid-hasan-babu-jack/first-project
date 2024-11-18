@@ -171,3 +171,30 @@ nav{
     color: #000;
     font-size: 30px;
 }
+
+section {
+    padding: 40px 20px;
+}
+
+#welcome-text {
+    text-align: center;
+}
+
+#about, #projects {
+    background-color: #f4f4f4;
+    margin: 20px 0;
+}
+
+.project {
+    background: white;
+    padding: 15px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+}
